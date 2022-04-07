@@ -3,7 +3,7 @@
 * * *
 #### Interest #### 
 * Data Anlysis
-* Machine Learining
+* Machine Learning
 * NLP(Natural Language Processing)
 
 #### <h3 align="center">🛠Tech Stack🛠</h3>
