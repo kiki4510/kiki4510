@@ -1,4 +1,4 @@
-### Injeong Kim 😊
+![header](https://capsule-render.vercel.app/api?type=waving&color=F1DDBF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
 ### Data Scientist Jr.
 * * *
 #### Interest #### 
