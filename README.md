@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Injeong Kim 😊
+### Data Scientist Jr.
+* * *
+#### Interest #### 
+* Data Anlysis
+* Machine Learining
+* NLP(Natural Language Processing)
 <!--
 **kiki4510/kiki4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
