@@ -20,9 +20,25 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a></h1> 
 
+
+
+
+
+
+
+
+
 #### <h2 align="center">🌼About ME🌼</h2>
 <h0 align="center">
 <a href="https://www.instagram.com/in._.jungee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  
+  
+  
+  
+  
+  
+  
+
 <!--
 **kiki4510/kiki4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
