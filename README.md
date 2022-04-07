@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a></h1> 
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a></h1> 
 <!--
 **kiki4510/kiki4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
