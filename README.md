@@ -20,10 +20,10 @@
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Looker-77CDFF?style=flat-square&logo=Looker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Spark-E9762B?style=flat-square&logo=Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Airflow-E52020?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Airflow-0D92F4?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-3674B5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 &nbsp; 
