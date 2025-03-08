@@ -1,16 +1,20 @@
-![image](https://github.com/user-attachments/assets/292b51e1-9d34-4a7a-bbff-13cc707c1bcc)![header](https://capsule-render.vercel.app/api?type=waving&color=F1DDBF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F1DDBF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
 ### Data Scientist Jr.
 * * *
 #### Interest #### 
-* Data Anlysis
+* Data Enigeeing
+* Big Data ETL
+* Data Processing
 * Machine Learning
 * NLP(Natural Language Processing)
 
 #### <h3 align="center">🛠Tech Stack🛠</h3>
 <h1 align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Scala-C62E2E?style=flat-square&logo=Scala&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-003B57?style=flat-square&logo=Pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GCP-003092?style=flat-square&logo=Googlecloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <br/>
@@ -18,9 +22,9 @@
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"/></a>
-<img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000"/></a>
-<img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"/></a>                                                                                    
+<img src="https://img.shields.io/badge/Apache Spark-E9762B?style=flat-square&logo=Spark&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Airflow-E52020?style=flat-square&logo=Airflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-3674B5?style=flat-square&logo=Kubernetese&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 &nbsp; 
 &nbsp; 
