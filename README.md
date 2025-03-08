@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F1DDBF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
+![image](https://github.com/user-attachments/assets/292b51e1-9d34-4a7a-bbff-13cc707c1bcc)![header](https://capsule-render.vercel.app/api?type=waving&color=F1DDBF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
 ### Data Scientist Jr.
 * * *
 #### Interest #### 
@@ -15,12 +15,13 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"/></a>
+<img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000"/></a>
+<img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"/></a>                                                                                    
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a></h1> 
 &nbsp; 
 &nbsp; 
 &nbsp; 
