@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B7E0FF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
-### Data Scientist Jr.
+### Data Engineer Jr.
 * * *
 #### Interest #### 
 * Data Enigeeing
