@@ -2,7 +2,7 @@
 ### Data Engineer Jr.
 * * *
 #### Interest #### 
-* Data Enigeeing
+* Data Enigeering
 * Big Data ETL
 * Data Processing
 * Machine Learning
