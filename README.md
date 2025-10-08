@@ -4,9 +4,9 @@
 #### Interest #### 
 * Data Enigeering
 * Big Data ETL
+* IaC(Infrastructure as Code)
 * Data Processing
 * Machine Learning
-* NLP(Natural Language Processing)
 
 #### <h3 align="center">🛠Tech Stack🛠</h3>
 <h1 align="center">
