@@ -2,7 +2,7 @@
 ### Data Engineer Jr.
 * * *
 #### Interest #### 
-* Data Enigeering
+* Data Engineering
 * Big Data ETL
 * IaC(Infrastructure as Code)
 * Data Processing
