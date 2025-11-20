@@ -23,9 +23,9 @@
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Elasticsearch-#005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Spark-E9762B?style=flat-square&logo=apachespark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Airflow-#017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Looker-77CDFF?style=flat-square&logo=Looker&logoColor=white"/></a>
 &nbsp; 
