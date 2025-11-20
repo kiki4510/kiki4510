@@ -1,20 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B7E0FF&height=300&section=header&text=Injeong%20Kim&fontSize=90&fontColor=525E75)
-### Data Engineer Jr.
+### Infra & Data Platform Engineer
 * * *
 #### Interest #### 
+* SRE(Site Reliability Engineering)
+* Cloud infrastructure
+* Data Platform Engineering
 * Data Engineering
 * Big Data ETL
 * IaC(Infrastructure as Code)
-* Data Processing
-* Machine Learning
+* Distributed Data Processing
 
 #### <h3 align="center">🛠Tech Stack🛠</h3>
 <h1 align="center">
+  <img src="https://img.shields.io/badge/AWS-003092?style=flat-square&logo=Aws&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Azure-003092?style=flat-square&logo=Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GCP-003092?style=flat-square&logo=Googlecloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Scala-C62E2E?style=flat-square&logo=Scala&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-003B57?style=flat-square&logo=Pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GCP-003092?style=flat-square&logo=Googlecloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <br/>
